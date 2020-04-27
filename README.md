@@ -5,3 +5,7 @@ Links To Important Projects and Repositories. Making it public so that it can be
 1. Google ❤️ Open Source
 
 https://github.com/google
+
+2. All Oracle javaee libraries
+
+https://github.com/javaee
